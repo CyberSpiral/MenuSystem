@@ -1,0 +1,6 @@
+D:\Användare\Kasper\Google Drive\Visual Studio Projects\C#\Display\Display\bin\Debug\Display.exe.config
+D:\Användare\Kasper\Google Drive\Visual Studio Projects\C#\Display\Display\bin\Debug\Display.exe
+D:\Användare\Kasper\Google Drive\Visual Studio Projects\C#\Display\Display\bin\Debug\Display.pdb
+D:\Användare\Kasper\Google Drive\Visual Studio Projects\C#\Display\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+D:\Användare\Kasper\Google Drive\Visual Studio Projects\C#\Display\Display\obj\Debug\Display.exe
+D:\Användare\Kasper\Google Drive\Visual Studio Projects\C#\Display\Display\obj\Debug\Display.pdb
